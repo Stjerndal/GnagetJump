@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">Gnaget Jump</string>
+    <string name="achievements_not_signed_in">Please sign in to view achievements.</string>
+    <string name="leaderboards_not_signed_in">Please sign in to view leaderboards.</string>
+
+</resources>
