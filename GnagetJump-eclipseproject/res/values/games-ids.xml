@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+  <string name="app_id">422733549665</string>
+  <string name="achievement_solen_stiger">CgkI4aCI56YMEAIQAg</string>
+  <string name="achievement_third_times_the_charm">CgkI4aCI56YMEAIQAw</string>
+  <string name="achievement_the_first_five">CgkI4aCI56YMEAIQBA</string>
+  <string name="achievement_blue_monkey_down">CgkI4aCI56YMEAIQBQ</string>
+  <string name="achievement_stomp_the_ape">CgkI4aCI56YMEAIQBg</string>
+  <string name="achievement_boateng__3_pong">CgkI4aCI56YMEAIQCw</string>
+  <string name="achievement_novice_hunter">CgkI4aCI56YMEAIQBw</string>
+  <string name="achievement_centurion">CgkI4aCI56YMEAIQEg</string>
+  <string name="leaderboard_best_score">CgkI4aCI56YMEAIQCA</string>
+  <string name="leaderboard_achievement_points">CgkI4aCI56YMEAIQDA</string>
+  <string name="leaderboard_most_monkey_kills">CgkI4aCI56YMEAIQCQ</string>
+  <string name="leaderboard_total_cumulative_score">CgkI4aCI56YMEAIQCg</string>
+  <string name="leaderboard_total_cummulative_monkey_kills">CgkI4aCI56YMEAIQDQ</string>
+</resources>
